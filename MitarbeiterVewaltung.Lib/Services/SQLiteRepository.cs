@@ -18,6 +18,7 @@ namespace MitarbeiterVewaltung.Lib.Services
         public SQLiteRepository(string path)
         {
             _path = path;
+
         }
 
         public void Add(Mitarbeiter mitarbeiter)
@@ -36,7 +37,7 @@ namespace MitarbeiterVewaltung.Lib.Services
                 using (var context = new MitarbeiterContext(_path))
                 {
                     context.Database
-                        .ExecuteSqlRaw("DELETE FROM Entries WHERE Id={0}",
+                        .ExecuteSqlRaw("DELETE FROM Mitarbeiterinnen WHERE Id={0}",
                         id);
                 }
 
@@ -86,7 +87,7 @@ namespace MitarbeiterVewaltung.Lib.Services
                         mitarbeiter.Nachname = newNachname;
                         mitarbeiter.Alter = newAlter;
                         mitarbeiter.Abteilung = newAbteilung;
-                        mitarbeiter.Eintrittsdatum = newEintrittsDatum;
+                        mitarbeiter.EintrittsDatum = newEintrittsDatum;
                         mitarbeiter.IstVollzeit = newIstVollzeit;
                         context.SaveChanges();
                     }

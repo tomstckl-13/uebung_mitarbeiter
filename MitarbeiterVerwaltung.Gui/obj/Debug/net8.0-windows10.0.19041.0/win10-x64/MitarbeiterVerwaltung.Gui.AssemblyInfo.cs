@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MitarbeiterVerwaltung.Gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+84304a906122df16055299f9ebde5fffb7bd8d14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+29e043a30f16990853412f34d60fcd996bf72233")]
 [assembly: System.Reflection.AssemblyProductAttribute("MitarbeiterVerwaltung.Gui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MitarbeiterVerwaltung.Gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

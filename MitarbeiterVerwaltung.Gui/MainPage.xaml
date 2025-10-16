@@ -6,7 +6,40 @@
              x:DataType="viewmodels:MainViewModel"
              >
 
-            
+    <!--Eingabe-->
+    <Grid ColumnDefinitions="*,*" RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
+        <StackLayout Grid.Row="0">
+            <Label Text="Eingabe Name" />
+            <Entry Text="{Binding Vorname}" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="1">
+            <Label Text="Eingabe Nachname" />
+            <Entry Text="{Binding Nachname}" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="2">
+            <Label Text="Eingabe Alter" />
+            <Entry Text="{Binding Alter}" Keyboard="Numeric" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="3">
+            <Label Text="Eingabe Abteilung" />
+            <Entry Text="{Binding Abteilung}"  />
+        </StackLayout>
+
+        <StackLayout Grid.Row="4">
+            <Label Text="Eingabe Datum" />
+            <DatePicker Format="yyyy-MM-dd" Date="{Binding EintrittsDatum}" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="5">
+            <Label Text="Eingabe Vollzeit?" />
+            <CheckBox IsChecked="{Binding IstVollzeit}" />
+        </StackLayout>
+
+        <Button Grid.Row="6" Text="Mitarbeiter hinzufügen" Command="{Binding AddCommand}"/>
+    </Grid>
     
     
 </ContentPage>

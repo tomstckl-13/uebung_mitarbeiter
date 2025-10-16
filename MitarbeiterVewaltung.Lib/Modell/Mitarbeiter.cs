@@ -18,7 +18,7 @@ namespace MitarbeiterVewaltung.Lib.Modell
 
         public string Abteilung { get; set; }
 
-        public DateTime Eintrittsdatum { get; set; }
+        public DateTime EintrittsDatum { get; set; }
 
         public bool IstVollzeit { get; set; }
 
@@ -29,7 +29,7 @@ namespace MitarbeiterVewaltung.Lib.Modell
             this.Vorname = vorname;
             this.Nachname = nachname;
             this.Abteilung = abteilung;
-            this.Eintrittsdatum = eintrittsDatum;
+            this.EintrittsDatum = eintrittsDatum;
             this.IstVollzeit = istVollzeit;
 
         }
@@ -41,7 +41,7 @@ namespace MitarbeiterVewaltung.Lib.Modell
             this.Nachname = nachname;
             this.Alter = alter;
             this.Abteilung = abteilung;
-            this.Eintrittsdatum = eintrittsDatum;
+            this.EintrittsDatum = eintrittsDatum;
             this.IstVollzeit = istVollzeit;
         }
     }

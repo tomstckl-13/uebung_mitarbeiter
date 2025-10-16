@@ -18,11 +18,15 @@ namespace MitarbeiterVewaltung.Lib.Context
         public MitarbeiterContext(string path)
         {
             _path = path;
+            SQLitePCL.Batteries_V2.Init();
             this.Database.EnsureCreated();
         }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-        => options.UseSqlite($"Data Source={_path}");
+        {
+            options.UseSqlite($"Filename={_path}");
+            Debug.WriteLine(_path);
+        }
     }
 }

@@ -17,7 +17,7 @@ namespace MitarbeiterVewaltung.Lib.Services
         public XMLRepository(string path)
         {
             _path = path;
-            if(File.Exists(_path))
+            if(File.Exists(path))
             {
                 _rootElement = XElement.Load(_path);
             }
@@ -45,7 +45,7 @@ namespace MitarbeiterVewaltung.Lib.Services
             var abteilungAttrib = new XAttribute("abteilung", mitarbeiter.Abteilung.ToString());
             node.Add(abteilungAttrib);
 
-            var eintrittAttrib = new XAttribute("eintritt", mitarbeiter.Eintrittsdatum.ToString());
+            var eintrittAttrib = new XAttribute("eintritt", mitarbeiter.EintrittsDatum.ToString());
             node.Add(eintrittAttrib);
 
             var istVollzeitAttrib = new XAttribute("vollzeit", mitarbeiter.IstVollzeit.ToString());

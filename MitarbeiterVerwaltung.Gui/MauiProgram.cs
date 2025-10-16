@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using MitarbeiterVerwaltung.Core.ViewModels;
+using MitarbeiterVewaltung.Lib.Repositories;
+using MitarbeiterVewaltung.Lib.Services;
 
 namespace MitarbeiterVerwaltung.Gui
 {
@@ -25,6 +27,19 @@ namespace MitarbeiterVerwaltung.Gui
 
             //Singletons für Pages!
             builder.Services.AddSingleton<MainPage>();
+
+            var folder = Environment.SpecialFolder.LocalApplicationData;
+            var path = Environment.GetFolderPath(folder);
+            string filename = "mitarbeiter.db";
+            string fullpath = System.IO.Path.Join(path, filename);
+
+            System.Diagnostics.Debug.WriteLine("Pfad:");
+           
+
+
+            //Singleton Schnittstelle
+            builder.Services.AddSingleton<IRepository>(new SQLiteRepository(fullpath));
+
 #endif
 
             return builder.Build();
