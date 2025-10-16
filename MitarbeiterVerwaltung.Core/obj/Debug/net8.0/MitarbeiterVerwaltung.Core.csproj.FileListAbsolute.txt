@@ -1,0 +1,16 @@
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVerwaltung.Core.deps.json
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVerwaltung.Core.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVerwaltung.Core.pdb
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.pdb
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.AssemblyInfo.cs
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.sourcelink.json
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\Mitarbei.3D61102C.Up2Date
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\refint\MitarbeiterVerwaltung.Core.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\MitarbeiterVerwaltung.Core.pdb
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\obj\Debug\net8.0\ref\MitarbeiterVerwaltung.Core.dll

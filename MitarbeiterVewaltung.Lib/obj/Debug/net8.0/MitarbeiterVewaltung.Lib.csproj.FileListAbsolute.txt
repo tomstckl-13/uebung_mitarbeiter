@@ -1,0 +1,13 @@
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.deps.json
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.pdb
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.AssemblyInfo.cs
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.sourcelink.json
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\refint\MitarbeiterVewaltung.Lib.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\MitarbeiterVewaltung.Lib.pdb
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\obj\Debug\net8.0\ref\MitarbeiterVewaltung.Lib.dll

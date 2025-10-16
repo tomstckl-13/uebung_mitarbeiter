@@ -15,6 +15,6 @@ namespace MitarbeiterVewaltung.Lib.Repositories
 
         public List<Mitarbeiter> GetAll();
 
-        public void Update(string id, string newVorname, string newNachname, int newAlter string newAbteilung, DateTime newEintrittsDatum, bool newIstVollzeit);
+        public void Update(string id, string newVorname, string newNachname, int newAlter, string newAbteilung, DateTime newEintrittsDatum, bool newIstVollzeit);
     }
 }
