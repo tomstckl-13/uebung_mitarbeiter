@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MitarbeiterVewaltung.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29e043a30f16990853412f34d60fcd996bf72233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ad297f16cc72501a614b658c9df6b7f6dd9fd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MitarbeiterVewaltung.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MitarbeiterVewaltung.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

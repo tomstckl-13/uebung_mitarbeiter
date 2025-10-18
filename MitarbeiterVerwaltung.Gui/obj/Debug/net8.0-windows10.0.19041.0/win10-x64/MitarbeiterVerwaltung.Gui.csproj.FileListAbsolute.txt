@@ -199,3 +199,6 @@ C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\
 C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using CommunityToolkit.Maui;
+using Microsoft.Extensions.Logging;
 using MitarbeiterVerwaltung.Core.ViewModels;
 using MitarbeiterVewaltung.Lib.Repositories;
 using MitarbeiterVewaltung.Lib.Services;
@@ -12,6 +13,7 @@ namespace MitarbeiterVerwaltung.Gui
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMauiCommunityToolkit()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -28,8 +30,7 @@ namespace MitarbeiterVerwaltung.Gui
             //Singletons für Pages!
             builder.Services.AddSingleton<MainPage>();
 
-            var folder = Environment.SpecialFolder.LocalApplicationData;
-            var path = Environment.GetFolderPath(folder);
+            string path = FileSystem.AppDataDirectory;
             string filename = "mitarbeiter.db";
             string fullpath = System.IO.Path.Join(path, filename);
 

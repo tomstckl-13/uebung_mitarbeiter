@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-16T18:47:48.420</Modified>
+      <Modified>2025-10-18T16:01:52.660</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-16T17:45:44.511</Modified>
+      <Modified>2025-10-18T15:36:51.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.runtimeconfig.json">
       <PackagePath>MitarbeiterVerwaltung.Gui.runtimeconfig.json</PackagePath>
-      <Modified>2025-10-16T17:45:44.213</Modified>
+      <Modified>2025-10-18T15:36:51.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.dll">
       <PackagePath>MitarbeiterVerwaltung.Gui.dll</PackagePath>
-      <Modified>2025-10-16T18:47:48.003</Modified>
+      <Modified>2025-10-18T16:01:52.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MitarbeiterVerwaltung.Gui.exe</PackagePath>
-      <Modified>2025-10-16T18:47:48.007</Modified>
+      <Modified>2025-10-18T16:01:52.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.deps.json">
       <PackagePath>MitarbeiterVerwaltung.Gui.deps.json</PackagePath>
-      <Modified>2025-10-16T17:45:44.187</Modified>
+      <Modified>2025-10-18T15:36:51.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -296,6 +296,14 @@
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-11-11T17:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\communitytoolkit.maui\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-11-08T09:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\communitytoolkit.maui.core\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-11-08T09:03:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\communitytoolkit.mvvm\8.4.0\lib\net8.0-windows10.0.17763\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
@@ -485,6 +493,10 @@
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2025-09-25T19:30:48.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\system.text.encodings.web\9.0.10\lib\net8.0\System.Text.Encodings.Web.dll">
       <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
       <Modified>2025-09-25T19:30:38.000</Modified>
@@ -643,11 +655,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVerwaltung.Core.dll">
       <PackagePath>MitarbeiterVerwaltung.Core.dll</PackagePath>
-      <Modified>2025-10-16T18:30:18.484</Modified>
+      <Modified>2025-10-18T15:57:47.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.dll">
       <PackagePath>MitarbeiterVewaltung.Lib.dll</PackagePath>
-      <Modified>2025-10-16T18:41:54.754</Modified>
+      <Modified>2025-10-18T16:01:51.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

@@ -60,7 +60,7 @@ namespace MitarbeiterVewaltung.Lib.Services
                     var to = "Saalfelden";
 */
                     var mitarbeiter = context.Mitarbeiterinnen.FromSql
-                        ($"SELECT * FROM Entries").ToList();
+                        ($"SELECT * FROM Mitarbeiterinnen").ToList();
 
                     return mitarbeiter;
                 }
