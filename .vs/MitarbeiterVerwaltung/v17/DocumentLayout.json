@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeitervewaltung.lib\\services\\xmlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|solutionrelative:mitarbeitervewaltung.lib\\services\\xmlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E6614735-4917-4B0A-AC68-A78B053BEDE3}|MitarbeiterVerwaltung.Core\\MitarbeiterVerwaltung.Core.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.core\\viewmodels\\chartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6614735-4917-4B0A-AC68-A78B053BEDE3}|MitarbeiterVerwaltung.Core\\MitarbeiterVerwaltung.Core.csproj|solutionrelative:mitarbeiterverwaltung.core\\viewmodels\\chartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6614735-4917-4B0A-AC68-A78B053BEDE3}|MitarbeiterVerwaltung.Core\\MitarbeiterVerwaltung.Core.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.core\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6614735-4917-4B0A-AC68-A78B053BEDE3}|MitarbeiterVerwaltung.Core\\MitarbeiterVerwaltung.Core.csproj|solutionrelative:mitarbeiterverwaltung.core\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeitervewaltung.lib\\services\\sqliterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|solutionrelative:mitarbeitervewaltung.lib\\services\\sqliterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\pages\\chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\pages\\chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeitervewaltung.lib\\context\\mitarbeitercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|solutionrelative:mitarbeitervewaltung.lib\\context\\mitarbeitercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeitervewaltung.lib\\modell\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D142BAA4-EA78-48AA-BDC1-F015E9F95372}|MitarbeiterVewaltung.Lib\\MitarbeiterVewaltung.Lib.csproj|solutionrelative:mitarbeitervewaltung.lib\\modell\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\pages\\chart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\pages\\chart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|c:\\users\\thoma\\source\\repos\\mitarbeiterverwaltung\\mitarbeiterverwaltung.gui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E11B7C13-2009-43A4-9243-EAC6239076F5}|MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj|solutionrelative:mitarbeiterverwaltung.gui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MauiProgram.cs",
-              "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\MauiProgram.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T15:59:37.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "XMLRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Services\\XMLRepository.cs",
-              "RelativeDocumentMoniker": "MitarbeiterVewaltung.Lib\\Services\\XMLRepository.cs",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Services\\XMLRepository.cs",
-              "RelativeToolTip": "MitarbeiterVewaltung.Lib\\Services\\XMLRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAYwEkAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:30:13.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MitarbeiterContext.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Context\\MitarbeiterContext.cs",
-              "RelativeDocumentMoniker": "MitarbeiterVewaltung.Lib\\Context\\MitarbeiterContext.cs",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Context\\MitarbeiterContext.cs",
-              "RelativeToolTip": "MitarbeiterVewaltung.Lib\\Context\\MitarbeiterContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:21:43.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLiteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Services\\SQLiteRepository.cs",
-              "RelativeDocumentMoniker": "MitarbeiterVewaltung.Lib\\Services\\SQLiteRepository.cs",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Services\\SQLiteRepository.cs",
-              "RelativeToolTip": "MitarbeiterVewaltung.Lib\\Services\\SQLiteRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowD4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:05:23.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Core\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Core\\ViewModels\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Core\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "MitarbeiterVerwaltung.Core\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwE8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:02:13.264Z",
+              "WhenOpened": "2025-10-20T15:51:03.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chart.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml.cs",
+              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml.cs",
+              "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:44:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mitarbeiter.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Modell\\Mitarbeiter.cs",
+              "RelativeDocumentMoniker": "MitarbeiterVewaltung.Lib\\Modell\\Mitarbeiter.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVewaltung.Lib\\Modell\\Mitarbeiter.cs",
+              "RelativeToolTip": "MitarbeiterVewaltung.Lib\\Modell\\Mitarbeiter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:36:18.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MainPage.xaml.cs",
-              "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:44:06.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MainPage.xaml",
               "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\MainPage.xaml",
               "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MainPage.xaml",
               "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\MainPage.xaml",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF0AAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-16T17:43:55.426Z",
+              "WhenOpened": "2025-10-20T15:31:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Core\\ViewModels\\ChartViewModel.cs",
+              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Core\\ViewModels\\ChartViewModel.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Core\\ViewModels\\ChartViewModel.cs",
+              "RelativeToolTip": "MitarbeiterVerwaltung.Core\\ViewModels\\ChartViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:27:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\AppShell.xaml",
+              "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\AppShell.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T15:23:37.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chart.xaml",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml",
+              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml",
+              "RelativeToolTip": "MitarbeiterVerwaltung.Gui\\Pages\\Chart.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T15:23:05.694Z",
               "EditorCaption": ""
             }
           ]

@@ -16,6 +16,7 @@
           "Microsoft.Maui.Controls.Compatibility": "8.0.100",
           "MitarbeiterVerwaltung.Core": "1.0.0",
           "MitarbeiterVewaltung.Lib": "1.0.0",
+          "Syncfusion.Maui.Charts": "31.2.2",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.57"
         },
         "runtime": {
@@ -640,6 +641,36 @@
           }
         }
       },
+      "Syncfusion.Licensing/31.2.2": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "31.2.2.0",
+            "fileVersion": "31.2.2.0"
+          }
+        }
+      },
+      "Syncfusion.Maui.Charts/31.2.2": {
+        "dependencies": {
+          "Syncfusion.Maui.Core": "31.2.2"
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Charts.dll": {
+            "assemblyVersion": "31.2.2.0",
+            "fileVersion": "31.2.2.0"
+          }
+        }
+      },
+      "Syncfusion.Maui.Core/31.2.2": {
+        "dependencies": {
+          "Syncfusion.Licensing": "31.2.2"
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "assemblyVersion": "31.2.2.0",
+            "fileVersion": "31.2.2.0"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/9.0.10": {
         "runtime": {
           "lib/net8.0/System.Diagnostics.DiagnosticSource.dll": {
@@ -1000,6 +1031,27 @@
       "sha512": "sha512-uZVTi02C1SxqzgT0HqTWatIbWGb40iIkfc3FpFCpE/r7g6K0PqzDUeefL6P6HPhDtc6BacN3yQysfzP7ks+wSQ==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.10",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/31.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dqKEmKcieBZQnFW30LpI2W1711kQK62s08O6RlYZCvp0W+rGHB0CkS1rxP4Yep9Bc9x96Am0dDRXhdSk3f+juQ==",
+      "path": "syncfusion.licensing/31.2.2",
+      "hashPath": "syncfusion.licensing.31.2.2.nupkg.sha512"
+    },
+    "Syncfusion.Maui.Charts/31.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t6sbuSNfEdRinxjvLE2yb3+iwqU+Czs5q6hQsaf0tghI9lt3s724nlx3s/gKOwuy1w7jz/9UkYBlq9JDu3w0BQ==",
+      "path": "syncfusion.maui.charts/31.2.2",
+      "hashPath": "syncfusion.maui.charts.31.2.2.nupkg.sha512"
+    },
+    "Syncfusion.Maui.Core/31.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JbCqi6yKWsmut9CBVuIuqI77qxfsnCl/DoElpzbuAQcTJ5InzG921tnNkCnLUVIFMtV+/BibpIy+DJ7I4amp1Q==",
+      "path": "syncfusion.maui.core/31.2.2",
+      "hashPath": "syncfusion.maui.core.31.2.2.nupkg.sha512"
     },
     "System.Diagnostics.DiagnosticSource/9.0.10": {
       "type": "package",

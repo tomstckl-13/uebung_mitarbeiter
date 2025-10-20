@@ -163,3 +163,5 @@ SQLitePCLRaw.lib.e_sqlite3.android.dll
 SQLitePCLRaw.lib.e_sqlite3.android.aar
 CommunityToolkit.Maui.Core.dll
 CommunityToolkit.Maui.dll
+Syncfusion.Maui.Charts.dll
+Syncfusion.Maui.Core.dll

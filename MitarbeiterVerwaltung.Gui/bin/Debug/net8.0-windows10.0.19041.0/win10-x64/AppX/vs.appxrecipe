@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-18T16:01:52.660</Modified>
+      <Modified>2025-10-20T15:50:42.247</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-18T15:36:51.789</Modified>
+      <Modified>2025-10-20T15:28:44.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.runtimeconfig.json">
       <PackagePath>MitarbeiterVerwaltung.Gui.runtimeconfig.json</PackagePath>
-      <Modified>2025-10-18T15:36:51.616</Modified>
+      <Modified>2025-10-20T15:28:44.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.dll">
       <PackagePath>MitarbeiterVerwaltung.Gui.dll</PackagePath>
-      <Modified>2025-10-18T16:01:52.231</Modified>
+      <Modified>2025-10-20T15:50:41.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MitarbeiterVerwaltung.Gui.exe</PackagePath>
-      <Modified>2025-10-18T16:01:52.235</Modified>
+      <Modified>2025-10-20T15:50:41.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -72,6 +72,10 @@
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-10-16T17:39:35.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\MauiMaterialAssets.ttf">
+      <PackagePath>MauiMaterialAssets.ttf</PackagePath>
+      <Modified>2025-10-11T09:31:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -287,7 +291,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MitarbeiterVerwaltung.Gui.deps.json">
       <PackagePath>MitarbeiterVerwaltung.Gui.deps.json</PackagePath>
-      <Modified>2025-10-18T15:36:51.597</Modified>
+      <Modified>2025-10-20T15:28:44.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -485,6 +489,18 @@
       <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
       <Modified>2024-09-11T20:12:38.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.licensing\31.2.2\lib\net8.0\Syncfusion.Licensing.dll">
+      <PackagePath>Syncfusion.Licensing.dll</PackagePath>
+      <Modified>2025-10-09T22:14:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.charts\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Charts.dll">
+      <PackagePath>Syncfusion.Maui.Charts.dll</PackagePath>
+      <Modified>2025-10-09T20:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.core\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Core.dll">
+      <PackagePath>Syncfusion.Maui.Core.dll</PackagePath>
+      <Modified>2025-10-11T09:40:36.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\system.diagnostics.diagnosticsource\9.0.10\lib\net8.0\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
       <Modified>2025-09-25T19:28:34.000</Modified>
@@ -655,11 +671,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Core\bin\Debug\net8.0\MitarbeiterVerwaltung.Core.dll">
       <PackagePath>MitarbeiterVerwaltung.Core.dll</PackagePath>
-      <Modified>2025-10-18T15:57:47.037</Modified>
+      <Modified>2025-10-20T15:52:16.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVewaltung.Lib\bin\Debug\net8.0\MitarbeiterVewaltung.Lib.dll">
       <PackagePath>MitarbeiterVewaltung.Lib.dll</PackagePath>
-      <Modified>2025-10-18T16:01:51.018</Modified>
+      <Modified>2025-10-20T15:25:34.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -672,6 +688,10 @@
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.maui.core\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2024-11-07T17:07:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.core\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Core.pri">
+      <PackagePath>Syncfusion.Maui.Core.pri</PackagePath>
+      <Modified>2025-10-11T09:40:36.000</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

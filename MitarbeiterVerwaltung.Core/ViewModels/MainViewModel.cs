@@ -1,5 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using MitarbeiterVerwaltung.Core.Services;
 using MitarbeiterVewaltung.Lib.Modell;
 using MitarbeiterVewaltung.Lib.Repositories;
 using System;
@@ -13,9 +14,10 @@ using System.Threading.Tasks;
 
 namespace MitarbeiterVerwaltung.Core.ViewModels
 {
-    public partial class MainViewModel(IRepository repository) : ObservableObject
+    public partial class MainViewModel(IRepository repository, IAlertService alertservice) : ObservableObject
     {
         IRepository _repository = repository;
+        IAlertService _alertservice = alertservice;
 
         [ObservableProperty]
         public string vorname = string.Empty;
@@ -41,6 +43,8 @@ namespace MitarbeiterVerwaltung.Core.ViewModels
         [ObservableProperty]
         Mitarbeiter _selectedMitarbeiter = null;
 
+        bool isLoaded = false;
+
 
         [RelayCommand]
         void Add()
@@ -49,6 +53,7 @@ namespace MitarbeiterVerwaltung.Core.ViewModels
 
             _repository.Add(mitarbeiter);
             this.Mit.Add(mitarbeiter);
+            _alertservice.ShowAlert("Erfolgreich!", "Der Eintrag wurde hinzugefügt");
 
             this.Vorname = string.Empty;
             this.Nachname = string.Empty;
@@ -66,10 +71,16 @@ namespace MitarbeiterVerwaltung.Core.ViewModels
         {
             List<Mitarbeiter> Mitarbeiterinnen = _repository.GetAll();
 
-            foreach(var item in Mitarbeiterinnen)
+            if(isLoaded == false)
             {
-                Mit.Add(item);
+                foreach (var item in Mitarbeiterinnen)
+                {
+                    Mit.Add(item);
+                }
+                isLoaded = true;
             }
+
+           
         }
 
         [RelayCommand]

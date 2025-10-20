@@ -55,6 +55,9 @@
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\MauiMaterialAssets.ttf">
+      <PackagePath>MauiMaterialAssets.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\source\repos\MitarbeiterVerwaltung\MitarbeiterVerwaltung.Gui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
@@ -364,6 +367,15 @@
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.10\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
       <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.licensing\31.2.2\lib\net8.0\Syncfusion.Licensing.dll">
+      <PackagePath>Syncfusion.Licensing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.charts\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Charts.dll">
+      <PackagePath>Syncfusion.Maui.Charts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.core\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Core.dll">
+      <PackagePath>Syncfusion.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\system.diagnostics.diagnosticsource\9.0.10\lib\net8.0\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
     </AppxPackagedFile>
@@ -504,6 +516,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\microsoft.maui.core\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\thoma\.nuget\packages\syncfusion.maui.core\31.2.2\lib\net8.0-windows10.0.19041.0\Syncfusion.Maui.Core.pri">
+      <PackagePath>Syncfusion.Maui.Core.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

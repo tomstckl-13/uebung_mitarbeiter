@@ -18,7 +18,6 @@ namespace MitarbeiterVewaltung.Lib.Context
         public MitarbeiterContext(string path)
         {
             _path = path;
-            SQLitePCL.Batteries_V2.Init();
             this.Database.EnsureCreated();
         }
 

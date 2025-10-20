@@ -1,8 +1,13 @@
 ﻿using CommunityToolkit.Maui;
 using Microsoft.Extensions.Logging;
+using MitarbeiterVerwaltung.Core.Services;
 using MitarbeiterVerwaltung.Core.ViewModels;
+using MitarbeiterVerwaltung.Gui.Pages;
+using MitarbeiterVerwaltung.Gui.Services;
 using MitarbeiterVewaltung.Lib.Repositories;
 using MitarbeiterVewaltung.Lib.Services;
+using MitarbeiterVewaltung.Lib.Modell;
+using Syncfusion.Maui.Core.Hosting;
 
 namespace MitarbeiterVerwaltung.Gui
 {
@@ -14,6 +19,7 @@ namespace MitarbeiterVerwaltung.Gui
             builder
                 .UseMauiApp<App>()
                 .UseMauiCommunityToolkit()
+                .ConfigureSyncfusionCore()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -26,9 +32,11 @@ namespace MitarbeiterVerwaltung.Gui
 
             //Singletons für ViewModels!
             builder.Services.AddSingleton<MainViewModel>();
+            builder.Services.AddSingleton<ChartViewModel>();
 
             //Singletons für Pages!
             builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<Chart>();
 
             string path = FileSystem.AppDataDirectory;
             string filename = "mitarbeiter.db";
@@ -40,7 +48,7 @@ namespace MitarbeiterVerwaltung.Gui
 
             //Singleton Schnittstelle
             builder.Services.AddSingleton<IRepository>(new SQLiteRepository(fullpath));
-
+            builder.Services.AddSingleton<IAlertService, AlertService>();
 #endif
 
             return builder.Build();

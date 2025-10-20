@@ -196,6 +196,10 @@
               "target": "Package",
               "version": "[8.0.16, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[31.2.2, )"
             }
           },
           "imports": [
@@ -269,6 +273,10 @@
               "target": "Package",
               "version": "[8.0.16, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[31.2.2, )"
             }
           },
           "imports": [
@@ -330,6 +338,10 @@
               "target": "Package",
               "version": "[8.0.16, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[31.2.2, )"
             }
           },
           "imports": [
@@ -386,6 +398,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[31.2.2, )"
             }
           },
           "imports": [

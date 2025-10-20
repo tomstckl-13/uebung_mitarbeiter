@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TozuXMdrsrE=",
+  "dgSpecHash": "/txkVM2X0kM=",
   "success": true,
   "projectFilePath": "C:\\Users\\thoma\\source\\repos\\MitarbeiterVerwaltung\\MitarbeiterVerwaltung.Gui\\MitarbeiterVerwaltung.Gui.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,9 @@
     "C:\\Users\\thoma\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.ios\\2.1.10\\sqlitepclraw.lib.e_sqlite3.ios.2.1.10.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\sqlitepclraw.provider.internal\\2.1.10\\sqlitepclraw.provider.internal.2.1.10.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\syncfusion.licensing\\31.2.2\\syncfusion.licensing.31.2.2.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\syncfusion.maui.charts\\31.2.2\\syncfusion.maui.charts.31.2.2.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\syncfusion.maui.core\\31.2.2\\syncfusion.maui.core.31.2.2.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.10\\system.diagnostics.diagnosticsource.9.0.10.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\system.io.pipelines\\9.0.10\\system.io.pipelines.9.0.10.nupkg.sha512",
